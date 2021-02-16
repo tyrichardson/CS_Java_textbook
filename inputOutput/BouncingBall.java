@@ -22,7 +22,7 @@ public class BouncingBall {
             StdDraw.clear();
             StdDraw.filledCircle(rx, ry, radius);
             StdDraw.show();
-            StdDraw.pause(50);
+            StdDraw.pause(20);
         }
     }
 }
